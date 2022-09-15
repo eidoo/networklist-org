@@ -2498,5 +2498,23 @@
     ],
     "faucets": [],
     "infoURL": "https://testnet.wanscan.org"
+  },
+  {
+    "name": "Ethereum POW",
+    "chainId": 10001,
+    "shortName": "ethw",
+    "chain": "ETHW",
+    "network": "mainnet",
+    "networkId": 10001,
+    "nativeCurrency": {
+      "name": "Ether POW",
+      "symbol": "ETHW",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://mainnet.ethereumpow.org/"
+    ],
+    "faucets": [],
+    "infoURL": "https://mainnet.ethwscan.com/"
   }
 ]
